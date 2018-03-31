@@ -1,0 +1,1074 @@
+[
+ {
+   "Position": "SF/PF",
+   "Name": "LeBron James",
+   "Salary": 11600,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 56.046,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "James Harden",
+   "Salary": 11000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 56.509,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "C",
+   "Name": "Joel Embiid",
+   "Salary": 9500,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 46.401,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Victor Oladipo",
+   "Salary": 8400,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 42.521,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "PG/SF",
+   "Name": "Ben Simmons",
+   "Salary": 8300,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 41.813,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "PG",
+   "Name": "Kyrie Irving",
+   "Salary": 8100,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 40.216,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "PG",
+   "Name": "Chris Paul",
+   "Salary": 7800,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 42.378,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "PG",
+   "Name": "Lonzo Ball",
+   "Salary": 7600,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 34.965,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Larry Nance Jr.",
+   "Salary": 7400,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 24.137,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Julius Randle",
+   "Salary": 7300,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 29.927,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "PG",
+   "Name": "Dennis Smith Jr.",
+   "Salary": 6900,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 29.364,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Al Horford",
+   "Salary": 6600,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 33.045,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "C",
+   "Name": "Clint Capela",
+   "Salary": 6500,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 34.614,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Isaiah Thomas",
+   "Salary": 6400,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 25.51,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Brandon Ingram",
+   "Salary": 6300,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 30.996,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Dario Saric",
+   "Salary": 6300,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 29.754,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Kentavious Caldwell-Pope",
+   "Salary": 6200,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 27.667,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Kevin Love",
+   "Salary": 6200,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 35.38,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "D'Angelo Russell",
+   "Salary": 6100,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 28.508,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Harrison Barnes",
+   "Salary": 6100,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 31.198,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Kyle Kuzma",
+   "Salary": 6000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 28.098,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "C",
+   "Name": "Myles Turner",
+   "Salary": 5900,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 29.24,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "DeMarre Carroll",
+   "Salary": 5900,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 28.086,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Rondae Hollis-Jefferson",
+   "Salary": 5800,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 28.313,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Spencer Dinwiddie",
+   "Salary": 5700,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 30.215,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Robert Covington",
+   "Salary": 5700,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 27.315,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Terry Rozier",
+   "Salary": 5600,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 22.58,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "PG/SF",
+   "Name": "Caris LeVert",
+   "Salary": 5600,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 25.103,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Dirk Nowitzki",
+   "Salary": 5600,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 25.133,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Marcus Smart",
+   "Salary": 5500,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 24.264,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Marcus Morris",
+   "Salary": 5400,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 23.149,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Jaylen Brown",
+   "Salary": 5400,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 25.738,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "C",
+   "Name": "Brook Lopez",
+   "Salary": 5400,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 22.991,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Bojan Bogdanovic",
+   "Salary": 5300,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 22.808,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Jordan Clarkson",
+   "Salary": 5300,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 24.098,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Allen Crabbe",
+   "Salary": 5200,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 23.327,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "J.J. Barea",
+   "Salary": 5200,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 25.608,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "PG",
+   "Name": "Darren Collison",
+   "Salary": 5100,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 27.599,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "JJ Redick",
+   "Salary": 5100,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 26.632,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Dwight Powell",
+   "Salary": 5100,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 18.813,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Eric Gordon",
+   "Salary": 5100,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 27.585,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "George Hill",
+   "Salary": 5000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 20.366,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Wesley Matthews",
+   "Salary": 5000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 24.363,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Trevor Ariza",
+   "Salary": 5000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 24.635,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Thaddeus Young",
+   "Salary": 4900,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 26.22,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Jayson Tatum",
+   "Salary": 4800,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 24.97,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "C",
+   "Name": "Jarrett Allen",
+   "Salary": 4700,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 17.89,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Domantas Sabonis",
+   "Salary": 4600,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 26.23,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "PG",
+   "Name": "Cory Joseph",
+   "Salary": 4500,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 19.053,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Rodney Hood",
+   "Salary": 4400,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 23.69,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Yogi Ferrell",
+   "Salary": 4400,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 19.723,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Lance Stephenson",
+   "Salary": 4300,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 21.379,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "J.R. Smith",
+   "Salary": 4200,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 17.583,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Greg Monroe",
+   "Salary": 4100,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 22.314,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Tristan Thompson",
+   "Salary": 4000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 16.595,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Josh Hart",
+   "Salary": 4000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 15.318,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Ersan Ilyasova",
+   "Salary": 4000,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 21.809,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Ryan Anderson",
+   "Salary": 4000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 20.197,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Joe Harris",
+   "Salary": 3900,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 18.922,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "C",
+   "Name": "Aron Baynes",
+   "Salary": 3800,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 15.088,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "SF",
+   "Name": "Doug McDermott",
+   "Salary": 3800,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 13.242,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "C",
+   "Name": "Nerlens Noel",
+   "Salary": 3700,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 13.31,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Kyle Korver",
+   "Salary": 3600,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 15.831,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Jeff Green",
+   "Salary": 3600,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 17.935,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Richaun Holmes",
+   "Salary": 3600,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 15,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Daniel Theis",
+   "Salary": 3500,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 14.254,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Cedi Osman",
+   "Salary": 3500,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 7.966,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Marco Belinelli",
+   "Salary": 3500,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 18.456,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "PG",
+   "Name": "T.J. McConnell",
+   "Salary": 3500,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 19.914,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "P.J. Tucker",
+   "Salary": 3500,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 16.796,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Joe Johnson",
+   "Salary": 3500,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 14,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "PG",
+   "Name": "Shane Larkin",
+   "Salary": 3400,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 7.689,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Gerald Green",
+   "Salary": 3400,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 17.981,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Luc Richard Mbah a Moute",
+   "Salary": 3400,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 16.083,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Semi Ojeleye",
+   "Salary": 3300,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 5.759,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Markelle Fultz",
+   "Salary": 3300,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 12.188,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "C",
+   "Name": "Jahlil Okafor",
+   "Salary": 3300,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 11.833,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Amir Johnson",
+   "Salary": 3300,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 14.212,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Dante Cunningham",
+   "Salary": 3300,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 13.402,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PF",
+   "Name": "Brandan Wright",
+   "Salary": 3300,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 12.545,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "C",
+   "Name": "Nene Hilario",
+   "Salary": 3300,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 13.439,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Glenn Robinson III",
+   "Salary": 3200,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 7.188,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Joe Young",
+   "Salary": 3200,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 7.005,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "PG",
+   "Name": "Jose Calderon",
+   "Salary": 3200,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 8.977,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "C",
+   "Name": "Ivica Zubac",
+   "Salary": 3200,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 7.096,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "PF",
+   "Name": "Travis Wear",
+   "Salary": 3200,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 9.75,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Nik Stauskas",
+   "Salary": 3200,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 7.926,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Justin Anderson",
+   "Salary": 3200,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 10.944,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Quincy Acy",
+   "Salary": 3200,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 13.425,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Maxi Kleber",
+   "Salary": 3200,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 12.127,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "C",
+   "Name": "Salah Mejri",
+   "Salary": 3200,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 12.35,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Trevor Booker",
+   "Salary": 3100,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 15.561,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Jerryd Bayless",
+   "Salary": 3100,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 14.103,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Tarik Black",
+   "Salary": 3100,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 9.231,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Kyle Collinsworth",
+   "Salary": 3100,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 8.736,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "SF",
+   "Name": "Alex Poythress",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 2.636,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "TJ Leaf",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 5.354,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Ike Anigbogu",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 3.125,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "PG",
+   "Name": "Edmond Sumner",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 0,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "SF",
+   "Name": "Ben Moore",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 1.375,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "SG",
+   "Name": "Jabari Bird",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 2.75,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Guerschon Yabusele",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 4.369,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "SG",
+   "Name": "Kadeem Allen",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 2.15,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "PF",
+   "Name": "Abdel Nader",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 5.669,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Gordon Hayward",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 3.25,
+   "teamAbbrev": "BOS"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Al Jefferson",
+   "Salary": 3000,
+   "GameInfo": "IND@BOS 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 14.371,
+   "teamAbbrev": "IND"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Channing Frye",
+   "Salary": 3000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 10.211,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Thomas Bryant",
+   "Salary": 3000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 2.15,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Luol Deng",
+   "Salary": 3000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 5,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Tyler Ennis",
+   "Salary": 3000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 8.081,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Gary Payton II",
+   "Salary": 3000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 5.542,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Alex Caruso",
+   "Salary": 3000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 8.615,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Derrick Williams",
+   "Salary": 3000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 0,
+   "teamAbbrev": "LAL"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "John Holland",
+   "Salary": 3000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 2.5,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "C",
+   "Name": "Ante Zizic",
+   "Salary": 3000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 4.597,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "PG",
+   "Name": "London Perrantes",
+   "Salary": 3000,
+   "GameInfo": "CLE@LAL 03/11/2018 09:00PM ET",
+   "AvgPointsPerGame": 0.75,
+   "teamAbbrev": "CLE"
+ },
+ {
+   "Position": "PG",
+   "Name": "Demetrius Jackson",
+   "Salary": 3000,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 2.854,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "James Young",
+   "Salary": 3000,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 4.4,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Timothe Luwawu-Cabarrot",
+   "Salary": 3000,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 9.971,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Furkan Korkmaz",
+   "Salary": 3000,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 3.583,
+   "teamAbbrev": "PHI"
+ },
+ {
+   "Position": "SF",
+   "Name": "James Webb III",
+   "Salary": 3000,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 5.556,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Isaiah Whitehead",
+   "Salary": 3000,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 10.875,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Jeremy Lin",
+   "Salary": 3000,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 23,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "C",
+   "Name": "Timofey Mozgov",
+   "Salary": 3000,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 9.315,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "PG",
+   "Name": "Milton Doyle",
+   "Salary": 3000,
+   "GameInfo": "PHI@BKN 03/11/2018 07:30PM ET",
+   "AvgPointsPerGame": 6.875,
+   "teamAbbrev": "BKN"
+ },
+ {
+   "Position": "SG",
+   "Name": "R.J. Hunter",
+   "Salary": 3000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 2.125,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Markel Brown",
+   "Salary": 3000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 3.438,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "C",
+   "Name": "Chinanu Onuaku",
+   "Salary": 3000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 0,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "PF/C",
+   "Name": "Zhou Qi",
+   "Salary": 3000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 3.518,
+   "teamAbbrev": "HOU"
+ },
+ {
+   "Position": "SF",
+   "Name": "Johnathan Motley",
+   "Salary": 3000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 6.917,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "SF",
+   "Name": "Jalen Jones",
+   "Salary": 3000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 5.286,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "SF/PF",
+   "Name": "Dorian Finney-Smith",
+   "Salary": 3000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 5.875,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "PG/SG",
+   "Name": "Seth Curry",
+   "Salary": 3000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 0,
+   "teamAbbrev": "DAL"
+ },
+ {
+   "Position": "SG/SF",
+   "Name": "Scotty Hopson",
+   "Salary": 3000,
+   "GameInfo": "HOU@DAL 03/11/2018 07:00PM ET",
+   "AvgPointsPerGame": 2,
+   "teamAbbrev": "DAL"
+ }
+]
