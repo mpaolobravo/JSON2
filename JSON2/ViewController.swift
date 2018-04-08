@@ -11,7 +11,7 @@ import SwiftyJSON
 
 class ViewController: UIViewController {
     
-    var petitions = [[String: Any]]()
+    var objects = [[String: Any]]()
     let totalSearches = 200000
     let salLimitMax = 50000.0
     let salLimitMin = 45000.0
@@ -52,7 +52,7 @@ class ViewController: UIViewController {
             let fantasyPoints = result["AvgPointsPerGame"].doubleValue
 
             let obj = ["playerName": name1, "playerPosition": postion, "salary": salary, "fantasyPoints": fantasyPoints] as [String : Any]
-            petitions.append(obj)
+            objects.append(obj)
         }
         
         // print("\(petitions[Int(arc4random_uniform(UInt32(petitions.count)))])")
@@ -85,7 +85,7 @@ class ViewController: UIViewController {
         var lineUpObj = LineUpBaskObj(pg: pg, sg: sg, g: g, sf: sf, pf: pf, f: f, c: c, u: u, salary: -1, fantasyPoints: -1)
         var counter = 0
         
-        print("petitions.count = \(petitions.count)")
+        print("objects.count = \(objects.count)")
         
         for _ in 0..<totalSearches  {
             
@@ -103,7 +103,7 @@ class ViewController: UIViewController {
                     counter += 1
                     // print("while loop \(counter)")
                     
-                    let testObj = petitions[Int(arc4random_uniform(UInt32(petitions.count)))]
+                    let testObj = objects[Int(arc4random_uniform(UInt32(objects.count)))]
                     
                     let name = testObj["playerName"] as! String
                     var fPoints2 = String(testObj["fantasyPoints"] as! Double)
